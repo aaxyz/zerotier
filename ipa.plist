@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-				        <string>com.zerotier.ZeroTier-One</string>
+		<string>com.zerotier.ZeroTier-1</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>ZeroTier-One</string>
+                <string>ZeroTier-1</string>
             </dict>
         </dict>
     </array>
